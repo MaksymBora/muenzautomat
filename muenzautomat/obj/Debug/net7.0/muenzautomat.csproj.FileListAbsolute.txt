@@ -1,0 +1,29 @@
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.csproj.AssemblyReference.cache
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.AssemblyInfoInputs.cache
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.AssemblyInfo.cs
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.csproj.CoreCompileInputs.cache
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.exe
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.deps.json
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.runtimeconfig.json
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.dll
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.pdb
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.dll
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\refint\muenzautomat.dll
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.pdb
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.genruntimeconfig.cache
+C:\Users\Praktikant\Documents\Coding\muenzautomat\muenzautomat\obj\Debug\net7.0\ref\muenzautomat.dll
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.exe
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.deps.json
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.runtimeconfig.json
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.dll
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\bin\Debug\net7.0\muenzautomat.pdb
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.AssemblyInfoInputs.cache
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.AssemblyInfo.cs
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.csproj.CoreCompileInputs.cache
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.dll
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\refint\muenzautomat.dll
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.pdb
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\muenzautomat.genruntimeconfig.cache
+C:\Users\CEO\Downloads\Telegram Desktop\muenzautomat\muenzautomat\muenzautomat\obj\Debug\net7.0\ref\muenzautomat.dll
